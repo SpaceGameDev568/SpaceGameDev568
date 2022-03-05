@@ -18,5 +18,5 @@ I'm a student in Florida, USA learning Game Development. I am interested in Leve
 
 I also enjoy gaming when I'm not doing GameDev. My favorite games include Subnautica, Planet Coaster, Satisfactory, and Kerbal Space Program. I especially enjoy management games like Planet Coaster and because I can design functional yet good-looking environments while also playing strategically. I also take tons of screenshots. I am also passionate about Spaceflight, If you couldn't already tell from my username. I enjoy Kerbal Space Program a lot too with over 500 hours in it.
 
-If you want to know what I'm working on you can check my [Trello Profile](https://trello.com/spacegamedev568)<br>
+If you want to know more about what I'm working on you can check my [Trello Profile](https://trello.com/spacegamedev568)<br>
 If you need to reach me my Discord Username and Tag are SpaceGameDev568 #0596
