@@ -1,4 +1,4 @@
-### Hello! I'm SpaceGameDev568
+### Hello! I'm SpaceGameDev
 
 <!--
 **SpaceGameDev568/SpaceGameDev568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
