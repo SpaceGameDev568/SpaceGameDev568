@@ -1,5 +1,5 @@
 ### Hello! I'm SpaceGameDev
-
+---
 <!--
 **SpaceGameDev568/SpaceGameDev568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,12 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student in Florida, USA learning Game Development. I am interested in Level Design and Environment Art and I often work on personal projects in Unity to improve my skills. I also work on mods for Satisfactory, Kerbal Space Program, and Surviving Mars in my free time. My various projects include my mods for Satisfactory, my personal Unity projects, and more. I don't have a whole lot of experience in GameDev yet but I am taking courses in Level Design with Unity and I'm also learning basic scripting with C++ and C#.
+About me:
 
-I also enjoy gaming when I'm not doing GameDev. My favorite games include Subnautica, Planet Coaster, Satisfactory, and Kerbal Space Program. I especially enjoy management games like Planet Coaster and because I can design functional yet good-looking environments while also playing strategically. I also take tons of screenshots. I am also passionate about Spaceflight, If you couldn't already tell from my username :D I enjoy Kerbal Space Program a lot too with over 500 hours in it.
+I'm an Aspiring Level Designer/Environment Artist and Student from Orlando, Florida. I often work on making mods for Satisfactory in my free time but mainly I work on improving my Game Development skills. I'm currently learning basic scripting with C++ and C# as well as working with Blender to create assets for my various projects. You can find some of them [here](https://github.com/SpaceGameDev568?tab=repositories). I am also passionate about Spaceflight and enjoy learning about it too.
 
-If you want to know more about what I'm working on you can check my [Trello Profile](https://trello.com/spacegamedev568)<br>
-If you need to reach me my Discord Username and Tag are SpaceGameDev568 #0596
+---
+### Contact Info
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Email:" width=5%></img></a> -->
+Email: spacegamedev568@gmail.com
+
+<!-- <img src="https://i.imgur.com/9YD6zEY.png" alt="[Discord:" width=5%></img></a> -->
+Discord: SpaceGameDev568 #0596
 
 ---
 
@@ -31,9 +36,11 @@ If you need to reach me my Discord Username and Tag are SpaceGameDev568 #0596
 <a href="https://www.blender.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width=5%></img></a>
 <a href="https://www.gimp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width=5%></img></a>
 
+#### You can see what I'm currently working on [here](https://trello.com/spacegamedev568).
+
 ---
 ### My Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SpaceGameDev568&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true)](https://git.io/streak-stats)
-[![Contribution stats](https://github-readme-stats.vercel.app/api?username=SpaceGameDev568&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true&hide_title=true&hide_rank=true&line_height=30)](https://github.com/anuraghazra/github-readme-stats)  
+[![Contribution stats](https://github-readme-stats.vercel.app/api?username=SpaceGameDev568&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true&hide_title=true&hide_rank=true&line_height=30&3)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceGameDev568&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 <img src="https://komarev.com/ghpvc/?username=SpaceGameDev568&style=flat-square&color=blue" alt="Profile view count"/>
