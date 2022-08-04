@@ -24,7 +24,7 @@ Email: spacegamedev568@gmail.com
 <!-- <img src="https://i.imgur.com/9YD6zEY.png" alt="[Discord:" width=5%></img></a> -->
 Discord: SpaceGameDev568 #0596
 
-Website: https://spacegamedev568.github.io/
+Website: https://spacegamedev.pages.dev
 
 ---
 
