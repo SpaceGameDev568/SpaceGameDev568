@@ -42,7 +42,7 @@ Website: https://spacegamedev.pages.dev
 
 ---
 ### My Statistics:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SpaceGameDev568&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SpaceGameDev568&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true)](https://git.io/streak-stats)<!-- Disable some stats temporarily
 [![Contribution stats](https://github-readme-stats.vercel.app/api?username=SpaceGameDev568&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true&hide_title=true&hide_rank=true&line_height=30&3)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceGameDev568&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceGameDev568&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- <img src="https://komarev.com/ghpvc/?username=SpaceGameDev568&style=flat-square&color=blue" alt="Profile view count"/> -->
