@@ -19,7 +19,7 @@ I'm a hobbyist progammer and 3D Artist from the United States. I often work on m
 ---
 ### Contact Info
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Email:" width=5%></img></a> -->
-Email: spacegamedev568@gmail.com
+Email: space@spacegamedev.com
 
 <!-- <img src="https://i.imgur.com/9YD6zEY.png" alt="[Discord:" width=5%></img></a> -->
 Discord: SpaceGameDev568 #0596
