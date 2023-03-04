@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 About me:
 
-I'm a hobbyist progammer and 3D Artist from the United States. I often work on making mods for Satisfactory in my free time but mainly I work on improving my Game Development skills. I'm currently learning basic scripting with C++ and C# as well as working with Blender to create assets for my various projects. You can find some of them [here](https://github.com/SpaceGameDev568?tab=repositories). I am also passionate about Spaceflight and enjoy learning about it too.
+I'm a hobbyist programmer and 3D Artist from the United States. I often work on making mods for Satisfactory in my free time but mainly I work on improving my Game Development skills. I'm currently learning basic scripting with C++ and C# as well as working with Blender to create assets for my various projects. You can find some of them [here](https://github.com/SpaceGameDev568?tab=repositories). I am also passionate about Spaceflight and enjoy learning about it too.
 
 ---
 ### Contact Info
