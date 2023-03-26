@@ -18,13 +18,15 @@ I'm a hobbyist programmer and 3D Artist from the United States. I often work on 
 
 ---
 ### Contact Info
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Email:" width=5%></img></a> -->
+
 Email: space@spacegamedev.com
 
-<!-- <img src="https://i.imgur.com/9YD6zEY.png" alt="[Discord:" width=5%></img></a> -->
+
 Discord: SpaceGameDev568 #0596
 
 Website: https://spacegamedev.com
+
+LinkedIn: https://www.linkedin.com/in/jesse-hodgson-22aba626b/
 
 ---
 
