@@ -26,8 +26,6 @@ Discord: SpaceGameDev568 #0596
 
 Website: https://spacegamedev.com
 
-LinkedIn: https://www.linkedin.com/in/jesse-hodgson-22aba626b/
-
 ---
 
 ### I'm currently learning:
