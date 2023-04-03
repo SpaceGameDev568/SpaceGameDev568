@@ -1,5 +1,3 @@
-# <b>My new website just launched! Go check it out here: https://spacegamedev.com</b>
-
 ### Hello! I'm SpaceGameDev
 ---
 <!--
