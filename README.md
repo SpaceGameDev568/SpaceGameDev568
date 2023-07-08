@@ -22,7 +22,7 @@ I'm a hobbyist programmer and 3D Artist from the United States. I often work on 
 Email: space@spacegamedev.com
 
 
-Discord: SpaceGameDev568 #0596
+Discord: @spacegamedev568
 
 Website: https://spacegamedev.com
 
