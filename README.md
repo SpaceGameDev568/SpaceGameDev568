@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 About me:
 
-I'm a hobbyist programmer and 3D Artist from the United States. I often work on making mods for Satisfactory in my free time but mainly I work on improving my Game Development skills. I'm currently learning basic scripting with C++ and Go as well as working with Blender to create assets for my various projects. You can find some of them [here](https://github.com/SpaceGameDev568?tab=repositories). I am also passionate about Spaceflight and enjoy learning about it too.
+Hi, I'm Jesse, a senior high school student from Charlotte, North Carolina. I am interested in the IT industry and I'm looking to get a career in tech when I graduate. I've been teaching myself programming and network administration in my free time and I have more recently begun taking Google's IT Support Specialist Certificate course in order to prepare myself for an entry-level job in the industry.
 
 ---
 ### Contact Info
