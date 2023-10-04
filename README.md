@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 About me:
 
-Hi, I'm Jesse, a senior high school student from Charlotte, North Carolina. I am interested in the IT industry and I'm looking to get a career in tech when I graduate. I've been teaching myself programming and network administration in my free time and I have more recently begun taking Google's IT Support Specialist Certificate course in order to prepare myself for an entry-level job in the industry.
+Hi, I'm Jesse, a senior high school student from Charlotte, North Carolina. I am interested in the IT industry and I'm looking to get a career in tech when I graduate. I've been teaching myself programming and network administration in my free time and I have more recently completed Google's IT Support Specialist Certificate course in order to prepare myself for an entry-level job in the industry.
 
 ---
 ### Contact Info
