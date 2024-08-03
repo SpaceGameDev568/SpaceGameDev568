@@ -21,7 +21,7 @@ Hi, I'm Jesse, a senior high school student from Charlotte, North Carolina. I am
 
 Email: space@spacegamedev.com
 
-Discord: @spacegamedev
+Discord: [@spacegamedev](https://discord.com/users/596469497502892033)
 
 Website: https://spacegamedev.com
 
