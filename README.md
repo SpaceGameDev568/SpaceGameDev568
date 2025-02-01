@@ -1,20 +1,8 @@
-### Hello! I'm SpaceGameDev
+### Hey, I'm Jesse!
 ---
-<!--
-**SpaceGameDev568/SpaceGameDev568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 About me:
 
-Hi, I'm Jesse, a senior high school student from Charlotte, North Carolina. I am interested in the IT industry and I'm looking to get a career in tech when I graduate. I've been teaching myself programming and network administration in my free time and I have more recently completed Google's IT Support Specialist Certificate course in order to prepare myself for an entry-level job in the industry.
+I'm a software developer from Charlotte, North Carolina. I primarily make mods for Satisfactory, including [Factory Props](https://ficsit.app/mod/Factory_Prop_Mod) and [Mod Update Notifier](https://ficsit.app/mod/ModUpdateNotifier).
 
 ---
 ### Contact Info
@@ -26,8 +14,6 @@ Discord: [@spacegamedev](https://discord.com/users/596469497502892033)
 Website: https://spacegamedev.com
 
 ---
-
-#### You can see what I'm currently working on [here](https://trello.com/spacegamedev568).
 
 ---
 ### My Statistics:
