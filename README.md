@@ -10,7 +10,7 @@ and I'm getting started with modpacks for Minecraft such as [Kuvankaunis](https:
 
 Email: space@spacegamedev.com
 
-Discord: [@spacegamedev](https://discord.com/users/596469497502892033)
+Discord: https://discord.gg/tgNjem4bjU
 
 Website: https://spacegamedev.com
 
