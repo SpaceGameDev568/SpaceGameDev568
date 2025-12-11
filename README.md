@@ -8,7 +8,7 @@ and I'm getting started with modpacks for Minecraft such as [Kuvankaunis](https:
 ---
 ### Contact Info
 
-Email: space@spacegamedev.com
+Email: support@spacegamedev.com
 
 Discord: https://discord.gg/tgNjem4bjU
 
