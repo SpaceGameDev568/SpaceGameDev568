@@ -2,7 +2,8 @@
 ---
 About me:
 
-I'm a software developer from Charlotte, North Carolina. I primarily make mods for Satisfactory, including [Factory Props](https://ficsit.app/mod/Factory_Prop_Mod) and [Mod Update Notifier](https://ficsit.app/mod/ModUpdateNotifier).
+I'm a software developer from Charlotte, North Carolina. I primarily make mods for Satisfactory, including [Factory Props](https://ficsit.app/mod/Factory_Prop_Mod) and [Mod Update Notifier](https://ficsit.app/mod/ModUpdateNotifier),
+and I'm getting started with modpacks for Minecraft such as [Kuvankaunis](https://modrinth.com/modpack/kuvankaunis)
 
 ---
 ### Contact Info
